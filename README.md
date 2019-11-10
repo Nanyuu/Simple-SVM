@@ -1,2 +1,2 @@
 # Simple-SVM
- Using Python to realize the Bassic-SVM
+realize the Bassic-SVM by Python
